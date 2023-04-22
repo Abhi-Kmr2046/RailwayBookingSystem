@@ -1,10 +1,14 @@
 Name Abhishek Kumar Sah
+
 Roll 19CS10004
+
 compiler : 
 g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
 
 Application.hpp - contains the implementation of Date, Railways, Booking, BookingClass, Passenger with their respective unit Test functions
+
 header folder- will all the header files for classes
+
     Booking.hpp   - header files for booking class
     bookingcategory.hpp   - header files for bookingcategory class with its hierarchy
     BookingClass.hpp   - header files for bookingclass class with its hierarchy
@@ -16,7 +20,7 @@ header folder- will all the header files for classes
     railways.hpp   - header files for a singleton railways class
     station.hpp   - header files for station class
     tatkal.hpp   - header files for a singleton class with info about tatkal charges
-TestPlan.pdf - contains the test plan of all the classes
+
 Station.txt - contains info of all the stations in the format
 
     numOfStations numberOfEdges
