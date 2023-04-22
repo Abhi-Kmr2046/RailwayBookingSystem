@@ -1,0 +1,12 @@
+5 10
+Mumbai Delhi Banglore Kolkata Chennai
+Mumbai Delhi 1447
+Mumbai Banglore 981
+Mumbai Kolkata 2014
+Mumbai Chennai 1338
+Delhi Banglore 2150
+Delhi Kolkata 1472
+Delhi Chennai 2180
+Banglore Kolkata 1871
+Banglore Chennai 350
+Kolkata Chennai 1659
